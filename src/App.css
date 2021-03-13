@@ -1,0 +1,27 @@
+body{
+  background-color: #808386 !important;
+}
+.header{
+background-color: rgb(246, 246, 250);
+}
+.gameBoard
+{
+  height: 75vh;
+}
+.game-Square{
+  width: 33.33%;
+  height: 33.33%;
+}
+.bt{
+  border-top:5px solid rgb(82, 84, 85) !important;
+}
+.bb{
+  border-bottom: 5px solid rgb(82, 84, 85)  !important;
+}
+.bsb{
+  border-left: 5px solid rgb(82, 84, 85)  !important;
+  border-right: 5px solid rgb(82, 84, 85) !important;
+}
+.x10{
+  font-size: 5rem;
+}
