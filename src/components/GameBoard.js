@@ -47,7 +47,7 @@ const GameBoard =() =>
         if(gameState[0].value===gameState[1].value && gameState[1].value===gameState[2].value) {
                 win=gameState[0].value;
             }
-          //  console.log("result is "+win);   
+          console.log("result is "+win);   
             return win;
     }
     return(
