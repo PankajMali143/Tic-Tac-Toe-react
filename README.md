@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-using-react
+# Tic-Tac-Toe-react
